@@ -1,5 +1,6 @@
 # Hacker News
 This is an iOS app that uses [Hacker News's API](https://github.com/HackerNews/API).
+
 I built this app using SwiftUI!
 
 ## Demo
