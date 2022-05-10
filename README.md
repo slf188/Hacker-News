@@ -4,7 +4,7 @@ This is an iOS app that uses [Hacker News's API](https://github.com/HackerNews/A
 I built this app using SwiftUI!
 
 ## Demo
-
+![demo](demo.gif)
 ## Author
 [Felipe Vallejo](https://www.linkedin.com/in/felipe-vallejo-200188/)
 ## License
